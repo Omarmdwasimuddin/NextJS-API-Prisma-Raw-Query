@@ -1,6 +1,6 @@
 ## NextJS API---> Prisma raw query
 
-### heading...
+### Prisma Raw SQL Query ($queryRaw)
 ![](https://imgur.com/j2w8ANM.png)
 
 ```bash
